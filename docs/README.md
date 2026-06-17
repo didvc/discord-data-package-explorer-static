@@ -28,4 +28,4 @@ You can deploy this folder to Cloudflare Pages, Netlify, Vercel, or any static h
 
 ## License
 
-Documentation content: [CC-BY-SA 4.0](LICENSE)
+Documentation content: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
