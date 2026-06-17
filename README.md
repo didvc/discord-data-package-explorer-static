@@ -1,6 +1,6 @@
 # Discord Data Package Explorer — Static
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?logo=github)](https://<owner>.github.io/discord-data-package-explorer-static)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?logo=github)](https://didvc.github.io/discord-data-package-explorer-static/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Pure Static](https://img.shields.io/badge/100%25-static%20%7C%20no%20telemetry-success)](https://github.com/)
 
@@ -25,7 +25,7 @@ Hosted versions on custom domains can add analytics or other code. This version 
 
 1. Request your data from Discord (Settings → Privacy & Safety → Request all of my data). Make sure to include **Messages**.
 2. Wait for the email and download `package.zip`.
-3. Go to the GitHub Pages URL for this repo (or open `index.html` locally after build).
+3. Go to the GitHub Pages URL: https://didvc.github.io/discord-data-package-explorer-static/ (or build & open `dist/index.html` locally).
 4. Drag & drop or select your `package.zip`.
 5. Use the **Search Messages** tab to search everything you've ever written.
 
