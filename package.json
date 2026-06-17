@@ -7,7 +7,10 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "npm run build && echo 'Build ready for GitHub Pages (copy dist/ to gh-pages branch or use workflow)'"
+    "deploy": "npm run build && echo 'Build ready for GitHub Pages (copy dist/ to gh-pages branch or use workflow)'",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   },
   "keywords": [
     "discord",
@@ -22,7 +25,8 @@
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^3.1.2",
     "svelte": "^4.2.20",
-    "vite": "^5.4.21"
+    "vite": "^5.4.21",
+    "vitepress": "^1.6.4"
   },
   "dependencies": {
     "chart.js": "^4.5.1",

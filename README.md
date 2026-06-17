@@ -68,6 +68,14 @@ Set the correct `base` in `vite.config.js` if your site lives at a subpath (e.g.
 - No external APIs called during processing (usernames shown as-is from package or "Unknown")
 - Close the tab = data is gone
 
+## Documentation
+
+For in-depth guides, how the parser works, data format details, and privacy explanations, see the documentation:
+
+**[https://discord-dpes.pages.dev/](https://discord-dpes.pages.dev/)**
+
+The application UI is English only. The documentation is available in multiple languages (starting with English and German).
+
 ## Credits
 
 Original project by Androz2091: https://github.com/Androz2091/discord-data-package-explorer
@@ -76,4 +84,5 @@ This static transparent edition exists to give users a high-trust option that ca
 
 ## License
 
-GPL-3.0 (same as upstream)
+- Application source code: **GPL-3.0**
+- Documentation: **CC-BY-SA 4.0** (see `docs/LICENSE`)

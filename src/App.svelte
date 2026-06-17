@@ -517,7 +517,6 @@
       {#if data}
         <button on:click={clearData} style="background:#4f545c;color:white;border:none;padding:8px 14px;border-radius:6px;font-size:13px;">Clear Data</button>
       {/if}
-      <a href="https://github.com/Androz2091/discord-data-package-explorer" target="_blank" style="margin-left:12px;font-size:13px;opacity:0.8;">Original</a>
     </div>
   </header>
 
@@ -738,8 +737,8 @@
   </div>
 
   <footer>
-    Pure static fork for GitHub Pages. No tracking. 
-    Source: <a href="https://github.com/" target="_blank">this repo</a> — based on <a href="https://github.com/Androz2091/discord-data-package-explorer" target="_blank">Androz2091's original</a>.
-    Your data never leaves the browser.
+    Pure static. No tracking. 
+    Source: <a href="https://github.com/didvc/discord-data-package-explorer-static" target="_blank">this repo</a> — based on <a href="https://github.com/Androz2091/discord-data-package-explorer" target="_blank">Androz2091's original</a>.<br>
+    <a href="https://discord-dpes.pages.dev/" target="_blank">Documentation</a> (multi-language)
   </footer>
 </div>
