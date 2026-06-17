@@ -8,8 +8,6 @@
 
 All processing happens 100% in your browser. No backend. No tracking. No data ever leaves your device.
 
-All processing happens 100% in your browser. No backend. No tracking. No data ever leaves your device.
-
 This is a fork/adaptation focused on:
 - Maximum transparency and trustworthiness (GitHub Pages = direct mirror of the repo)
 - Strong support for cross-server / full-archive search of *your own messages*
