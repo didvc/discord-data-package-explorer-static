@@ -33,6 +33,13 @@ export default defineConfig({
               { text: 'Privacy & Transparency', link: '/privacy' },
               { text: 'Data Package Format', link: '/data-format' },
             ]
+          },
+          {
+            text: 'About this Fork',
+            items: [
+              { text: 'What Changed', link: '/what-changed' },
+              { text: 'Architecture', link: '/architecture' },
+            ]
           }
         ],
         socialLinks: [
@@ -68,6 +75,13 @@ export default defineConfig({
             items: [
               { text: 'Datenschutz & Transparenz', link: '/de/privacy' },
               { text: 'Datenpaket-Format', link: '/de/data-format' },
+            ]
+          },
+          {
+            text: 'Über diesen Fork',
+            items: [
+              { text: 'Was sich geändert hat', link: '/de/what-changed' },
+              { text: 'Architektur', link: '/de/architecture' },
             ]
           }
         ],
