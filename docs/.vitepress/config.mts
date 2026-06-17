@@ -17,6 +17,7 @@ export default defineConfig({
           { text: 'Home', link: '/' },
           { text: 'Getting Started', link: '/getting-started' },
           { text: 'Searching', link: '/searching' },
+          { text: 'What Changed', link: '/what-changed' },
           { text: 'Privacy', link: '/privacy' },
         ],
         sidebar: [
@@ -60,6 +61,7 @@ export default defineConfig({
           { text: 'Start', link: '/de/' },
           { text: 'Erste Schritte', link: '/de/getting-started' },
           { text: 'Suche', link: '/de/searching' },
+          { text: 'Änderungen', link: '/de/what-changed' },
           { text: 'Datenschutz', link: '/de/privacy' },
         ],
         sidebar: [
