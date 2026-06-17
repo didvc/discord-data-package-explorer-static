@@ -1,0 +1,24 @@
+# Build / deps
+node_modules/
+dist/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# OS / editor
+.DS_Store
+*.log
+.env*
+.idea/
+.vscode/
+
+# Project internals / agents (per task-github-publishing)
+agent-references/
+blueprint-v1.md
+original/
+agents.md
+.opencode
+.ignore
+
+# Misc
+*.swp
+*.swo

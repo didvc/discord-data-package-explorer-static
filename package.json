@@ -1,0 +1,32 @@
+{
+  "name": "discord-data-package-explorer-static",
+  "version": "1.0.0",
+  "description": "Pure static, no-telemetry GitHub Pages version of Discord Data Package Explorer. All processing happens in your browser.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && echo 'Build ready for GitHub Pages (copy dist/ to gh-pages branch or use workflow)'"
+  },
+  "keywords": [
+    "discord",
+    "data-package",
+    "explorer",
+    "static",
+    "github-pages",
+    "privacy"
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.1.2",
+    "svelte": "^4.2.20",
+    "vite": "^5.4.21"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "fflate": "^0.8.3",
+    "papaparse": "^5.5.3"
+  }
+}
